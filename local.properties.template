@@ -1,0 +1,15 @@
+# LifeOs - Local Properties Template
+# Copy this file to local.properties and update paths for your system
+
+# Android SDK Path (Windows)
+sdk.dir=C\:\\Android SDK
+
+# NDK Path for Whisper.cpp native compilation
+ndk.dir=C\:\\Android SDK\\ndk\\25.1.8937393
+
+# CMake Path (optional, uses bundled if not specified)
+# cmake.dir=C\:\\Android SDK\\cmake\\3.22.1
+
+# For Linux/Mac systems, use forward slashes:
+# sdk.dir=/home/user/Android/Sdk
+# ndk.dir=/home/user/Android/Sdk/ndk/25.1.8937393
